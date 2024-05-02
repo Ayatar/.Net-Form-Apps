@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\İlkFormUygulamam\bin\Debug\İlkFormUygulamam.exe.config
+C:\Users\elcik\source\repos\İlkFormUygulamam\bin\Debug\İlkFormUygulamam.exe
+C:\Users\elcik\source\repos\İlkFormUygulamam\bin\Debug\İlkFormUygulamam.pdb
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.Form1.resources
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.Properties.Resources.resources
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.exe
+C:\Users\elcik\source\repos\İlkFormUygulamam\obj\Debug\İlkFormUygulamam.pdb

@@ -1,0 +1,11 @@
+C:\Users\elcik\source\repos\ikinciformuygulamam\bin\Debug\ikinciformuygulamam.exe.config
+C:\Users\elcik\source\repos\ikinciformuygulamam\bin\Debug\ikinciformuygulamam.exe
+C:\Users\elcik\source\repos\ikinciformuygulamam\bin\Debug\ikinciformuygulamam.pdb
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.Form1.resources
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.Properties.Resources.resources
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.exe
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.pdb
+C:\Users\elcik\source\repos\ikinciformuygulamam\obj\Debug\ikinciformuygulamam.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\recursiveFunction\bin\Debug\recursiveFunction.exe.config
+C:\Users\elcik\source\repos\recursiveFunction\bin\Debug\recursiveFunction.exe
+C:\Users\elcik\source\repos\recursiveFunction\bin\Debug\recursiveFunction.pdb
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.Form1.resources
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.Properties.Resources.resources
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.exe
+C:\Users\elcik\source\repos\recursiveFunction\obj\Debug\recursiveFunction.pdb

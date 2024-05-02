@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\Globallocalscope\bin\Debug\Globallocalscope.exe.config
+C:\Users\elcik\source\repos\Globallocalscope\bin\Debug\Globallocalscope.exe
+C:\Users\elcik\source\repos\Globallocalscope\bin\Debug\Globallocalscope.pdb
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.Form1.resources
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.Properties.Resources.resources
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.exe
+C:\Users\elcik\source\repos\Globallocalscope\obj\Debug\Globallocalscope.pdb

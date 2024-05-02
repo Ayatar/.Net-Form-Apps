@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\CacheSilmeSon\bin\Debug\CacheSilmeSon.exe.config
+C:\Users\elcik\source\repos\CacheSilmeSon\bin\Debug\CacheSilmeSon.exe
+C:\Users\elcik\source\repos\CacheSilmeSon\bin\Debug\CacheSilmeSon.pdb
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.Form1.resources
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.Properties.Resources.resources
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.exe
+C:\Users\elcik\source\repos\CacheSilmeSon\obj\Debug\CacheSilmeSon.pdb

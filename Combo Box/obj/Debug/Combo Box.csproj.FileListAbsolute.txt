@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\Combo Box\bin\Debug\Combo Box.exe.config
+C:\Users\elcik\source\repos\Combo Box\bin\Debug\Combo Box.exe
+C:\Users\elcik\source\repos\Combo Box\bin\Debug\Combo Box.pdb
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo Box.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo_Box.Form1.resources
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo_Box.Properties.Resources.resources
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo Box.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo Box.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo Box.exe
+C:\Users\elcik\source\repos\Combo Box\obj\Debug\Combo Box.pdb

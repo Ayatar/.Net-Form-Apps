@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRVbL8Kii3jQr30KlzRSgdbBWN8NRTP5w0R2sZOCABjx1Humf/cDe18YZo41rUOtqwXB2GDFH68oMTKFk3DeNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elcik\\source\\repos\\FonksiyonlarCalisma\\FonksiyonlarCalisma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elcik\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}

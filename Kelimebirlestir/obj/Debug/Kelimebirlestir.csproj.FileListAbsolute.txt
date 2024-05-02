@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\Kelimebirlestir\bin\Debug\Kelimebirlestir.exe.config
+C:\Users\elcik\source\repos\Kelimebirlestir\bin\Debug\Kelimebirlestir.exe
+C:\Users\elcik\source\repos\Kelimebirlestir\bin\Debug\Kelimebirlestir.pdb
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.Form1.resources
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.Properties.Resources.resources
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.exe
+C:\Users\elcik\source\repos\Kelimebirlestir\obj\Debug\Kelimebirlestir.pdb

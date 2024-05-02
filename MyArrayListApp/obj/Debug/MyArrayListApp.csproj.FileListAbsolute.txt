@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.Form1.resources
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.Properties.Resources.resources
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\MyArrayListApp\bin\Debug\MyArrayListApp.exe.config
+C:\Users\elcik\source\repos\MyArrayListApp\bin\Debug\MyArrayListApp.exe
+C:\Users\elcik\source\repos\MyArrayListApp\bin\Debug\MyArrayListApp.pdb
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.exe
+C:\Users\elcik\source\repos\MyArrayListApp\obj\Debug\MyArrayListApp.pdb

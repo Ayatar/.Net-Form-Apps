@@ -1,0 +1,12 @@
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.Form1.resources
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.Properties.Resources.resources
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\bin\Debug\FonksiyonlarCalisma.exe.config
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\bin\Debug\FonksiyonlarCalisma.exe
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\bin\Debug\FonksiyonlarCalisma.pdb
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\bin\Debug\System.Data.SqlClient.dll
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\Fonksiyo.28F67C5A.Up2Date
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.exe
+C:\Users\elcik\source\repos\FonksiyonlarCalisma\obj\Debug\FonksiyonlarCalisma.pdb

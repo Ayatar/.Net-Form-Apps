@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\MesajPencereleri\bin\Debug\MesajPencereleri.exe.config
+C:\Users\elcik\source\repos\MesajPencereleri\bin\Debug\MesajPencereleri.exe
+C:\Users\elcik\source\repos\MesajPencereleri\bin\Debug\MesajPencereleri.pdb
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.Form1.resources
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.Properties.Resources.resources
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.exe
+C:\Users\elcik\source\repos\MesajPencereleri\obj\Debug\MesajPencereleri.pdb

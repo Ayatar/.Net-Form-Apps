@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe.config
+C:\Users\elcik\source\repos\KlasorIslemleri\bin\Debug\KlasorIslemleri.exe
+C:\Users\elcik\source\repos\KlasorIslemleri\bin\Debug\KlasorIslemleri.pdb
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.Form1.resources
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.Properties.Resources.resources
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.exe
+C:\Users\elcik\source\repos\KlasorIslemleri\obj\Debug\KlasorIslemleri.pdb

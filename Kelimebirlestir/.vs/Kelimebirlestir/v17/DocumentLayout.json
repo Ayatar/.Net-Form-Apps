@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|c:\\users\\elcik\\source\\repos\\kelimebirlestir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|c:\\users\\elcik\\source\\repos\\kelimebirlestir\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|c:\\users\\elcik\\source\\repos\\kelimebirlestir\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|c:\\users\\elcik\\source\\repos\\kelimebirlestir\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59C8EB4B-F3E3-4568-9EAE-60E42B5F26FF}|Kelimebirlestir.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowE8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:39:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form2.cs*",
+              "RelativeToolTip": "Form2.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:38:23.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form2.cs [Design]*",
+              "RelativeToolTip": "Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:36:10.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:42:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elcik\\source\\repos\\Kelimebirlestir\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:38:27.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
