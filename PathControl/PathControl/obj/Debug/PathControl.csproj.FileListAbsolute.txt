@@ -1,0 +1,10 @@
+C:\Users\elcik\source\repos\PathControl\PathControl\bin\Debug\PathControl.exe.config
+C:\Users\elcik\source\repos\PathControl\PathControl\bin\Debug\PathControl.exe
+C:\Users\elcik\source\repos\PathControl\PathControl\bin\Debug\PathControl.pdb
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.csproj.AssemblyReference.cache
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.Form1.resources
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.Properties.Resources.resources
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.csproj.GenerateResource.cache
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.csproj.CoreCompileInputs.cache
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.exe
+C:\Users\elcik\source\repos\PathControl\PathControl\obj\Debug\PathControl.pdb
